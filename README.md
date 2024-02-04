@@ -71,6 +71,6 @@ Project Link: [https://github.com/your-username/trending-fashion-recommendation-
 - [NumPy](https://numpy.org/)
 - [SciKit-Learn](https://scikit-learn.org/)
 
-
+### link for the project 
 
 
