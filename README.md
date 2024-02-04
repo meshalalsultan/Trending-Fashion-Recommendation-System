@@ -1,7 +1,7 @@
 # Trending Fashion Recommendation System
 
 ## Overview
-This project is a Trending Fashion Recommendation System built with a Flask web application. It provides product recommendations from the Myntra dataset based on product features like brand, ratings, price range, and popularity index. The recommendations are generated through a content-based filtering approach, ensuring users receive personalized product suggestions.
+This project is a Trending Fashion Recommendation System built with a streamlit web application. It provides product recommendations from the Fashion based on product features like brand, ratings, price range, and popularity index. The recommendations are generated through a content-based filtering approach, ensuring users receive personalized product suggestions.
 
 ## Features
 - Product recommendation based on similarity in ratings, price, and brand.
@@ -29,10 +29,10 @@ cd trending-fashion-recommendation-system
 
 
 ## Usage
-1. Run the Flask app:
+1. Run the streamlit app:
 
 
-python app.py
+streamlit run app.py
 
 
 2. Open a web browser and go to `http://127.0.0.1:5000/`.
@@ -71,7 +71,8 @@ Project Link: [https://github.com/meshalalsultan/Trending-Fashion-Recommendation
 - [NumPy](https://numpy.org/)
 - [SciKit-Learn](https://scikit-learn.org/)
 
-### link for the project 
+# Or open the project with this link
 
+### link for the project 
 
 https://mtrendingfashionrecommendation.streamlit.app/
