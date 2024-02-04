@@ -74,3 +74,4 @@ Project Link: [https://github.com/meshalalsultan/Trending-Fashion-Recommendation
 ### link for the project 
 
 
+https://mtrendingfashionrecommendation.streamlit.app/
