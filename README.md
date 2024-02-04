@@ -59,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Linkedin - [www.linkedin.com/in/meshalhandal](www.linkedin.com/in/meshalhandal) - qualitymeshal@gmail.com
 
-Website - [meshalalsultan.com]
+Website - [https://meshalalsultan.com/] (https://meshalalsultan.com)
 
 Project Link: [https://github.com/meshalalsultan/Trending-Fashion-Recommendation-System]
 
