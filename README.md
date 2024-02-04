@@ -23,7 +23,7 @@ pip install flask pandas numpy scikit-learn
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/trending-fashion-recommendation-system.git
+git clone https://github.com/meshalalsultan/trending-fashion-recommendation-system.git
 
 cd trending-fashion-recommendation-system
 
@@ -61,9 +61,9 @@ Linkedin - [www.linkedin.com/in/meshalhandal](www.linkedin.com/in/meshalhandal) 
 
 Website - [meshalalsultan.com]
 
-Project Link: [https://github.com/your-username/trending-fashion-recommendation-system]
+Project Link: [https://github.com/meshalalsultan/Trending-Fashion-Recommendation-System]
 
-(https://github.com/your-username/trending-fashion-recommendation-system)
+(https://github.com/meshalalsultan/Trending-Fashion-Recommendation-System)
 
 ## Acknowledgements
 - [Flask](https://flask.palletsprojects.com/)
